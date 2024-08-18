@@ -1,0 +1,10 @@
+data 
+venv 
+fyersApi.log
+fyersRequests.log
+response.json
+src/__pycache__
+src/Analysis.ipynb
+src/fyersConnector.py
+src/upstox.py
+.direnv
